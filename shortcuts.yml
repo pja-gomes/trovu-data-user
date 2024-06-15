@@ -1,8 +1,8 @@
 # Documentation:
 # https://trovu.net/docs/shortcuts/
 
-tvoc 0: http://www.treccani.it/
-tvoc 1: http://www.treccani.it/ricerca/<query>/
+tvoc 0: https://www.treccani.it/
+tvoc 1: https://www.treccani.it/vocabolario/ricerca/<query>/
 #examplekeyword 2:
 #  url: http://www.example.com/?q=<query>&p=<puery>
 #  title: Custom shortcut
