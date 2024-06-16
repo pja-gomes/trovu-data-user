@@ -8,3 +8,6 @@ tvoc 1: https://www.treccani.it/vocabolario/ricerca/<query>/
 #  description: My custom shortcut with the keyword examplekeyword and 2 arguments.
 #  tags:
 #  - example
+cam 1: https://dictionary.cambridge.org/dictionary/english/<query>/
+oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
+gkeep 0: https://keep.google.com/u/0/j
