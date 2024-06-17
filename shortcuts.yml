@@ -13,3 +13,4 @@ oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
 gkeep 1: https://keep.google.com/#search/text=<query>
 mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
 fq 0: https://www.ilfattoquotidiano.it/
+conj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
