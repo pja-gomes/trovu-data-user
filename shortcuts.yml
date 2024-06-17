@@ -10,6 +10,6 @@ tvoc 1: https://www.treccani.it/vocabolario/ricerca/<query>/
 #  - example
 cam 1: https://dictionary.cambridge.org/dictionary/english/<query>/
 oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
-gkeep 1: https://keep.google.com/#search/<query>/
+gkeep 1: https://keep.google.com/#search/text%253D<query>/
 mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
 fq 0: https://www.ilfattoquotidiano.it/
