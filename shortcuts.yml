@@ -16,3 +16,4 @@ fq 0: https://www.ilfattoquotidiano.it/
 fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
 trello 0: http://trello.com/login/
 go-tasks 0: https://calendar.google.com/calendar/u/0/r/tasks
+spy 1: https://open.spotify.com/search/<query>
