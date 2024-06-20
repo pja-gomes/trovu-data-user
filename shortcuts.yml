@@ -14,4 +14,5 @@ gkeep 1: https://keep.google.com/#search/text=<query>
 mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
 fq 0: https://www.ilfattoquotidiano.it/
 fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
-gtsk 0: https://tasks.google.com/
+gtask 0: https://tasks.google.com/
+trello 0: http://trello.com/login/
