@@ -10,7 +10,7 @@ tvoc 1: https://www.treccani.it/vocabolario/ricerca/<query>/
 #        - example
 #        - custom
 spy 1: https://open.spotify.com/search/<query>
-slango 1: https://slengo.it/define/<query>
+slengo 1: https://slengo.it/define/<query>
 fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
 camd 1: https://dictionary.cambridge.org/dictionary/english/<query>/
 oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
