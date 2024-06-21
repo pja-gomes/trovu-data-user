@@ -26,3 +26,4 @@ biblio 2:
   examples:
   - arguments: inglese, ursula le guin
     description: trova libri in lingua inglese di Ursula Le Guin nella biblioteca G.Marconi di Roma
+azl 1: https://search.azlyrics.com/search.php?q=<query>
