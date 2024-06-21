@@ -22,5 +22,5 @@ mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
 biblio 0: https://www.bibliotechediroma.it
 biblio 2: 
   url: https://www.bibliotechediroma.it/opac/query/LI:"<param1>"<param2>?bib=RMBQ1&context=tmatm&sort=Anno
-  description: cerca in Biblioteca Marconi (Roma), per testi a stampa moderni. param1: lingua; param2: ricerca libera
+  description: cerca testi in Biblioteca Marconi (Roma), usando i 2 parametri di Lingua e ricerca Libera.
   example: biblio inglese, ursula le guin
