@@ -9,18 +9,18 @@ tvoc 1: https://www.treccani.it/vocabolario/ricerca/<query>/
 #    tags:
 #        - example
 #        - custom
+spy 1: https://open.spotify.com/search/<query>
+slango 1: https://slengo.it/define/<query>
+fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
 camd 1: https://dictionary.cambridge.org/dictionary/english/<query>/
 oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
 gkeep 1: https://keep.google.com/#search/text=<query>
-mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
-fq 0: https://www.ilfattoquotidiano.it/
-fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
-trello 0: http://trello.com/login/
 go-tasks 0: https://calendar.google.com/calendar/u/0/r/tasks
-spy 1: https://open.spotify.com/search/<query>
-it-slang 1: https://slengo.it/define/<query>
+trello 0: http://trello.com/login/
+fq 0: https://www.ilfattoquotidiano.it/
+mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
+biblio 0: https://www.bibliotechediroma.it
 biblio 2: 
   url: https://www.bibliotechediroma.it/opac/query/LI:"<param1>"<param2>?bib=RMBQ1&context=tmatm&sort=Anno
-  description: cerca in Biblioteca Marconi (Roma), per testi a stampa moderni
-  tags:
-    - examples: biblio francese, perrin
+  description: cerca in Biblioteca Marconi (Roma), per testi a stampa moderni. param1: lingua; param2: ricerca libera
+  example: biblio inglese, ursula le guin
