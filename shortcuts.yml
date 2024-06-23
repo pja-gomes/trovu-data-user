@@ -28,6 +28,4 @@ biblio 2:
   - arguments: inglese, ursula le guin
     description: trova libri in lingua inglese di Ursula Le Guin nella biblioteca G.Marconi di Roma
 lyr 1: https://findmusicbylyrics.com/search?q=<query>
-leo.ende 1: https://dict.leo.org/englisch-deutsch/<query>
-leo.itde 1: https://dict.leo.org/italienisch-deutsch/<query>
 coll.de 1: https://www.collinsdictionary.com/dictionary/german-english/<query>
