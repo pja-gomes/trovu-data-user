@@ -30,3 +30,4 @@ biblio 2:
 lyr 1: https://findmusicbylyrics.com/search?q=<query>
 leo.ende 1: https://dict.leo.org/englisch-deutsch/<query>
 leo.itde 1: https://dict.leo.org/italienisch-deutsch/<query>
+coll.de: https://www.collinsdictionary.com/dictionary/german-english/<query>
