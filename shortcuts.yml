@@ -15,7 +15,7 @@ fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
 camd 1: https://dictionary.cambridge.org/dictionary/english/<query>/
 oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
 iten 1: https://www.wordreference.com/iten/<query>
-go-tasks 0: https://calendar.google.com/calendar/u/0/r/tasks
+gtasks 0: https://calendar.google.com/calendar/u/0/r/tasks
 trello 0: http://trello.com/login/
 fq 0: https://www.ilfattoquotidiano.it/
 mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
