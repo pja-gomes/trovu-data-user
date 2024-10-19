@@ -10,13 +10,11 @@ tvoc 1: https://www.treccani.it/vocabolario/ricerca/<query>/
 #        - example
 #        - custom
 spy 1: https://open.spotify.com/search/<query>
-slengo 1: https://slengo.it/define/<query>
 fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
 camd 1: https://dictionary.cambridge.org/dictionary/english/<query>/
 oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
 iten 1: https://www.wordreference.com/iten/<query>
 gtasks 0: https://calendar.google.com/calendar/u/0/r/tasks
-trello 0: http://trello.com/login/
 fq 0: https://www.ilfattoquotidiano.it/
 mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
 biblio 0: https://www.bibliotechediroma.it
@@ -28,4 +26,4 @@ biblio 2:
     description: trova libri in lingua inglese di Ursula Le Guin nella biblioteca G.Marconi di Roma
 lyr 1: https://findmusicbylyrics.com/search?q=<query>
 coll.de 1: https://www.collinsdictionary.com/dictionary/german-english/<query>
-subito 1: https://www.subito.it/annunci-lazio/vendita/usato/roma/roma/?q=<query>
+k8s 1: https://kubernetes.io/search/?q=<query>
