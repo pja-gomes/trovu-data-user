@@ -28,7 +28,7 @@ lyr 1: https://findmusicbylyrics.com/search?q=<query>
 coll.de 1: https://www.collinsdictionary.com/dictionary/german-english/<query>
 k8s 1: https://kubernetes.io/search/?q=<query>
 ibs 1: 
-    url: https://www.ibs.it/algolia-search?ts=as&query=<query>
+    url: https://www.ibs.it/algolia-search?ts=as&query=<query>&sortBy=prd_IBS_price_asc
     title: Italian Books Store
     examples:
     - arguments: pinocchio
