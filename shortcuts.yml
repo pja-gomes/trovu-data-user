@@ -14,7 +14,7 @@ fconj 1: https://leconjugueur.lefigaro.fr/conjugaison/verbe/<query>
 camd 1: https://dictionary.cambridge.org/dictionary/english/<query>/
 oxl 1: https://www.oxfordlearnersdictionaries.com/definition/english/<query>/
 iten 1: https://www.wordreference.com/iten/<query>
-cenit 1: https://www.collinsdictionary.com/dictionary/english-italian/<query>
+lge.it-en 1: https://www.linguee.com/english-italian/search?query=<query>
 gtasks 0: https://calendar.google.com/calendar/u/0/r/tasks
 fq 0: https://www.ilfattoquotidiano.it/
 mlol 0: https://bibliotu.medialibrary.it/home/index.aspx
